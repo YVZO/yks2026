@@ -15,4 +15,4 @@ Tablo 3 (ön lisans) + Tablo 4 (lisans). Başarı sırası ve taban puanı 2025 
 - `YKS_2026_Kontenjan.xlsx` — Excel (Lisans / Ön Lisans sayfaları)
 - `kontkilavuz_yktd21072026.pdf` — kaynak ÖSYM PDF (21 Temmuz 2026, ön sürüm)
 
-Bu araç ÖSYM'nin resmi bir ürünü değildir. Kritik tercihleri güncel kılavuzla doğrulayın: https://www.osym.gov.tr
+Bu araç ÖSYM'nin resmi bir ürünü değildir. Kritik tercihleri güncel kılavuzla doğrulayın: https://www.osym.gov.tr/TR,33849/2026.html
